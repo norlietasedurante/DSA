@@ -1,4 +1,11 @@
-
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+* SOURCE CODE: Queue.java
+* AUTHOR NAME: Sedurante, Norlieta I.
+* GITHUB URL: [https://github.com/norlietasedurante/Totalmax_Array]
+* LAST UPDATE: [09/01/2016]
+*
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+*/
 package totalmax_array;
 
 import java.util.Random;
@@ -90,8 +97,4 @@ public class Totalmax_Array {
     
 }
 
-    public static void main(String[] args) {
-   
-    }
-    
-}
+ 
