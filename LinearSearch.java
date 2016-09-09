@@ -1,4 +1,11 @@
-
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+* SOURCE CODE: LinearSearch.java
+* AUTHOR NAME: Sedurante, Norlieta I.
+* GITHUB URL: [https://github.com/norlietasedurante/LinearSearch]
+* LAST UPDATE: [09/09/2016]
+*
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+*/
 package linearsearch;
 
 import java.util.Scanner;
