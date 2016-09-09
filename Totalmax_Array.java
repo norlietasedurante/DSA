@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-* SOURCE CODE: Queue.java
+* SOURCE CODE: Totalmax_Array.java
 * AUTHOR NAME: Sedurante, Norlieta I.
 * GITHUB URL: [https://github.com/norlietasedurante/Totalmax_Array]
 * LAST UPDATE: [09/01/2016]
