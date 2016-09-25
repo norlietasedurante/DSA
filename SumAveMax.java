@@ -1,17 +1,17 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-* SOURCE CODE: Totalmax_Array.java
+* SOURCE CODE: SumAveMax.java
 * AUTHOR NAME: Sedurante, Norlieta I.
 * GITHUB URL: [https://github.com/norlietasedurante/Totalmax_Array]
 * LAST UPDATE: [09/01/2016]
 *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 */
-package totalmax_array;
+package SumAveMax;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Totalmax_Array {
+public class SumAveMax {
 
     
 
