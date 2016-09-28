@@ -1,4 +1,8 @@
-
+/**
+Norlieta Sedurante
+https://github.com/norlietasedurante/DSA/BinarySearch.java
+09/28/2016
+*/
 package binary.search;
 
 
