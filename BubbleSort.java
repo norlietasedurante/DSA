@@ -1,4 +1,11 @@
-
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+* SOURCE CODE: BubbleSort.java
+* AUTHOR NAME: Sedurante, Norlieta  I.
+* GITHUB URL: [https://github.com/norlietasedurante/BubbleSort.java]
+* LAST UPDATE: [09/28/2016]
+*
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+*/
 package bubblesort;
 import java.util.Scanner;
 import java.util.Random;
